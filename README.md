@@ -8,7 +8,12 @@
 </p>
 
 # 💫 About Me:
-👋 Hi, I'm Ahsan!  <br>🚀 A passionate student exploring the world of technology and development  <br>💡 I believe that every effort, failure, and lesson is a valuable step toward growth  <br>🌱 Currently learning front-end development and aiming to master the full tech stack  <br>🔭 My dream is to contribute to future innovations and build tech that helps people  <br>🤝 Let’s learn, build, and grow together!<br>
+👋 Hi, I'm Ahsan!<br>
+🚀 A passionate student exploring the world of technology<br>
+💡 I believe every effort, failure, and lesson brings me one step closer to contributing to future innovations<br/>
+🤝 My goal is to build something meaningful and helpful for others<br/>
+📚 Always learning | 🔧 Always building<br/>
+
 
 
 # 💻 Tech Stack:
